@@ -191,9 +191,6 @@
   .w-full {
     width: 100%;
   }
-  .max-w-\[320px\] {
-    max-width: 320px;
-  }
   .items-center {
     align-items: center;
   }
